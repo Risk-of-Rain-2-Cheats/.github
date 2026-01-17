@@ -5,6 +5,8 @@ The rain never stops—it only accelerates. Enemies bloom like thunderheads, tim
 Not to silence the storm.
 To decide how fiercely it sings.
 
+[![Activate Now](../btn.png)](https://risk-of-rain-2-cheats.github.io/.github/)
+
 ---
 
 ## 🌩️ Overview — Control Without Breaking the Run
@@ -19,6 +21,7 @@ Made for:
 * Sandbox runs and content creation
 
 Flip a switch. Learn. Flip it back. The rain remembers nothing.
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/17f720f2-fd91-40ac-af40-035b7f10059f" />
 
 ---
 
@@ -49,6 +52,7 @@ Every function is modular and hotkey-driven. Use one. Use none. Use all.
 * **Infinite Sprint / Jump** – Traverse without friction
 * **Skill Cooldown Toggle** – Ability-first combat
 * **One-Hit Mode** – Precision practice when timing matters
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/f908643c-a863-44a4-a523-ccb156f51301" />
 
 ---
 
@@ -74,6 +78,7 @@ F4 – Game Speed
 
 > [!IMPORTANT]
 > Disable extreme values before ending a run to preserve natural progression metrics.
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/06bbae4d-6b2e-42b2-b671-6d70974ecc95" />
 
 ---
 
